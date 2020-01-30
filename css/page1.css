@@ -1,0 +1,26 @@
+body
+{
+    background-color: #99ddff;
+}
+div
+{
+    margin-top: 17%;
+    margin-left: 38%;
+    background-color: white;
+    border: 0px solid white;
+    width: 250px;
+    height: 100px;
+    background-color: white;
+}
+form input[type="text"]
+{
+    width:210px;
+    padding-left: 2px;
+    margin: 13px;
+}
+form input[type="submit"]
+{
+    width:80px;
+    text-align: center;
+    background-color: #99ddff;
+}

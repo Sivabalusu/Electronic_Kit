@@ -1,0 +1,113 @@
+body
+{
+    background-color:#99ddff;
+    font-family: sans-serif;
+}
+.nav
+{
+    background-color: black;
+}
+h1
+{
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    padding-top: 2px;
+}
+h1 sub
+{
+    color: #ef291f;
+    font-size:16px;
+}
+.nav form
+{
+    width: 100%;
+    height: 20px;
+    background-color: dimgray;
+    font-weight: bold;
+    color: white;
+    text-align: right;
+}
+.nav input[type="submit"]
+{
+    border-style: none;
+    background-color: dimgray;
+    color: white;
+}
+.main
+{
+    float: left;
+    width: 57%;
+    margin: 2px;
+    border: 1px solid white;
+    background-color: white;
+}
+.main h2
+{
+    text-align: center;
+}
+.productTable tr th 
+{
+   text-align: center;
+    width: 200px;
+}
+.productTable tr td 
+{
+   text-align: center;
+    width: 200px;
+    margin-bottom: 3px;
+}
+.right
+{
+    width: 42%;
+    float: left;
+    background-color: white;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.right h2
+{
+    text-align: center;
+}
+.pages
+{
+    width: 50%;
+    text-align: center;
+    height: 40px;
+    margin-left: 25%;
+    float: left;
+    font-weight: bold;
+    background-color: white;
+}
+.cartTable tr th
+{
+    text-align: center;
+    width: 100px;
+}
+.cartTable tr td
+{
+    text-align: center;
+    width: 70px;
+}
+.resetTable
+{
+    margin-left: 40%;
+}
+button
+{
+    background-color: #99ddff;
+    padding: 5px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    display: inline;
+}
